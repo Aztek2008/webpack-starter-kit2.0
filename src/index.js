@@ -1,6 +1,6 @@
 import './styles.css';
-// import characters from './data-array';
-import characters from './data-array-2';
+import characters from './data-array';
+// import characters from './data-array-2';
 
 const dataTable = document.querySelector('.data-table');
 const bodyTable = document.querySelector('.body-table');
